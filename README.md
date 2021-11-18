@@ -109,6 +109,12 @@
 
 <strong>This Week I Spent My Time On</strong></br>
 <!--START_SECTION:waka-->
+```text
+Markdown   1 hr 11 mins    ███████████████▓░░░░░░░░░   62.28 % 
+Java       31 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.07 % 
+Bash       7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Groovy     4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+```
 <!--END_SECTION:waka-->
 
 
