@@ -111,15 +111,13 @@ No Activity tracked this Week
 
 
 <!-- 如果你想了解多一点点, 为什么不看看下面那个可能会有很多star的项目呢(前排star机会难得不是) -->
-
-
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clwater&repo=LeetCodeAllAnimation" />
 </a>
-
 最近开发的可视化算法学习平台上线了, 你不打算看看么 [RobinAlgo](https://robinalgo.com) -->
 
+---
+Thanks:
 
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clwater&layout=compact" />
-</a> -->
+[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+[zhongguose.com](http://zhongguose.com/)
