@@ -113,7 +113,16 @@
 
 
  <!-- steam-box start -->
- <!-- steam-box end -->
+#### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🎮 Factorio                         🕘 683 hrs 18 mins
+💻 Wallpaper Engine                 🕘 321 hrs 30 mins
+🎮 World of Warships                🕘 244 hrs 0 mins
+🎮 Aseprite                         🕘 156 hrs 19 mins
+🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
 
 
 <!-- 如果你想了解多一点点, 为什么不看看下面那个可能会有很多star的项目呢(前排star机会难得不是) -->
