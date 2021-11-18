@@ -128,6 +128,15 @@
 
 <strong>Game I Spent</strong></br>
 <!-- steam-box start -->
+#### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+🎮 Factorio                         🕘 683 hrs 18 mins
+💻 Wallpaper Engine                 🕘 321 hrs 30 mins
+🎮 World of Warships                🕘 245 hrs 39 mins
+🎮 Aseprite                         🕘 156 hrs 19 mins
+🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
 
 
