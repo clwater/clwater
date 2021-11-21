@@ -138,7 +138,7 @@ Groovy     4 mins          ▒░░░░░░░░░░░░░░░░�
 ```text
 🎮 Factorio                         🕘 683 hrs 18 mins
 💻 Wallpaper Engine                 🕘 321 hrs 30 mins
-🎮 World of Warships                🕘 246 hrs 41 mins
+🎮 World of Warships                🕘 249 hrs 14 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
 ```
