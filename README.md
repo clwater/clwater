@@ -139,7 +139,7 @@ Other      29 mins         ▓░░░░░░░░░░░░░░░░�
 ```text
 🎮 Factorio                         🕘 683 hrs 18 mins
 💻 Wallpaper Engine                 🕘 321 hrs 30 mins
-🎮 World of Warships                🕘 252 hrs 54 mins
+🎮 World of Warships                🕘 253 hrs 10 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
 ```
