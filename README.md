@@ -139,7 +139,7 @@ JSON   2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░
 ```text
 🎮 Factorio                         🕘 683 hrs 18 mins
 💻 Wallpaper Engine                 🕘 322 hrs 4 mins
-🎮 World of Warships                🕘 255 hrs 56 mins
+🎮 World of Warships                🕘 257 hrs 0 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
 ```
