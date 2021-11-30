@@ -139,7 +139,7 @@ YAML         2 hrs 11 mins   ██░░░░░░░░░░░░░░░
 ```text
 🎮 Factorio                         🕘 683 hrs 18 mins
 💻 Wallpaper Engine                 🕘 322 hrs 4 mins
-🎮 World of Warships                🕘 257 hrs 0 mins
+🎮 World of Warships                🕘 257 hrs 27 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
 ```
