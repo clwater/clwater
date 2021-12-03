@@ -65,7 +65,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/clwater/BezierCurve?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/clwater/BezierCurve?style=flat-square&labelColor=343b41"/></td>
       </td>
-    </tr>
+    </tr> 
     <tr>
       <td><a href="https://github.com/clwater/AndroidDashBoard"><b>AndroidDashBoard</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/clwater/AndroidDashBoard?style=flat-square&labelColor=343b41"/></td>
