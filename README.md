@@ -139,7 +139,7 @@ Pug          3 hrs 38 mins   ██▓░░░░░░░░░░░░░░
 ```text
 🎮 Factorio                         🕘 683 hrs 18 mins
 💻 Wallpaper Engine                 🕘 322 hrs 4 mins
-🎮 World of Warships                🕘 258 hrs 17 mins
+🎮 World of Warships                🕘 261 hrs 21 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
 ```
