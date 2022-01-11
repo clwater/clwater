@@ -110,11 +110,11 @@
 <strong>This Week I Spent My Time On</strong></br>
 <!--START_SECTION:waka-->
 ```text
-Java           8 hrs 59 mins   ███████▓░░░░░░░░░░░░░░░░░   31.23 % 
-Groovy         7 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.05 % 
-Bash           3 hrs 48 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Shell Script   1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-XML            1 hr 35 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Java           10 hrs 53 mins  █████████░░░░░░░░░░░░░░░░   35.55 % 
+Groovy         7 hrs 57 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.98 % 
+Bash           4 hrs 22 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Shell Script   1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Properties     1 hr 42 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
 ```
 <!--END_SECTION:waka-->
 
