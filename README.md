@@ -138,7 +138,7 @@ XML      11 mins         ▓░░░░░░░░░░░░░░░░░�
 ```text
 🎮 Factorio                         🕘 683 hrs 18 mins
 💻 Wallpaper Engine                 🕘 325 hrs 0 mins
-🎮 World of Warships                🕘 262 hrs 53 mins
+🎮 World of Warships                🕘 263 hrs 48 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
 ```
