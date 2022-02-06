@@ -134,8 +134,8 @@ C#          2 hrs 36 mins   █████████████████�
 #### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Factorio                         🕘 683 hrs 18 mins
-💻 Wallpaper Engine                 🕘 325 hrs 0 mins
-🎮 World of Warships                🕘 263 hrs 48 mins
+💻 Wallpaper Engine                 🕘 328 hrs 11 mins
+🎮 World of Warships                🕘 265 hrs 33 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
 ```
