@@ -135,7 +135,7 @@ C#          5 hrs 34 mins   █████████████████�
 ```text
 🎮 Factorio                         🕘 683 hrs 18 mins
 💻 Wallpaper Engine                 🕘 328 hrs 11 mins
-🎮 World of Warships                🕘 265 hrs 33 mins
+🎮 World of Warships                🕘 266 hrs 15 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
 ```
