@@ -139,7 +139,7 @@ Markdown   1 hr 16 mins    █▒░░░░░░░░░░░░░░░�
 ```text
 🎮 Factorio                         🕘 683 hrs 18 mins
 💻 Wallpaper Engine                 🕘 328 hrs 35 mins
-🎮 World of Warships                🕘 266 hrs 15 mins
+🎮 World of Warships                🕘 267 hrs 3 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🦾 Cyberpunk 2077                   🕘 88 hrs 58 mins
 ```
