@@ -110,11 +110,11 @@
 <strong>This Week I Spent My Time On</strong></br>
 <!--START_SECTION:waka-->
 ```text
-Java       11 hrs 53 mins  ██████████░░░░░░░░░░░░░░░   40.18 % 
-C#         9 hrs 35 mins   ████████░░░░░░░░░░░░░░░░░   32.41 % 
-XML        4 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-Groovy     1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Markdown   1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Java       11 hrs 53 mins  ██████████▒░░░░░░░░░░░░░░   41.75 % 
+C#         8 hrs 27 mins   ███████▒░░░░░░░░░░░░░░░░░   29.72 % 
+XML        4 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Groovy     1 hr 32 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Markdown   1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 <!--END_SECTION:waka-->
 
