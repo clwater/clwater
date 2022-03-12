@@ -140,11 +140,11 @@ Shrinker Config File   0 secs          ░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Factorio                         🕘 735 hrs 39 mins
+🎮 Factorio                         🕘 748 hrs 21 mins
 💻 Wallpaper Engine                 🕘 332 hrs 17 mins
 🎮 World of Warships                🕘 267 hrs 3 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
-🦾 Cyberpunk 2077                   🕘 89 hrs 6 mins
+🎮 ELDEN RING                       🕘 93 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
