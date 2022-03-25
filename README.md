@@ -141,10 +141,10 @@ Lua                    22 mins         ▒░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Factorio                         🕘 790 hrs 48 mins
-💻 Wallpaper Engine                 🕘 332 hrs 49 mins
+💻 Wallpaper Engine                 🕘 332 hrs 57 mins
 🎮 World of Warships                🕘 267 hrs 3 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
-🎮 ELDEN RING                       🕘 93 hrs 48 mins
+🎮 ELDEN RING                       🕘 94 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
