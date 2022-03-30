@@ -144,7 +144,7 @@ PowerShell       9 mins          ▒░░░░░░░░░░░░░░�
 💻 Wallpaper Engine                 🕘 332 hrs 57 mins
 🎮 World of Warships                🕘 267 hrs 3 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
-🎮 ELDEN RING                       🕘 94 hrs 6 mins
+🎮 ELDEN RING                       🕘 94 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
