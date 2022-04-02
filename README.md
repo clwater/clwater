@@ -140,7 +140,7 @@ Lua                    25 mins         ▓░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Factorio                         🕘 790 hrs 48 mins
+🎮 Factorio                         🕘 793 hrs 51 mins
 💻 Wallpaper Engine                 🕘 332 hrs 57 mins
 🎮 World of Warships                🕘 267 hrs 3 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
