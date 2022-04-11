@@ -142,7 +142,7 @@ Pug              0 secs          ░░░░░░░░░░░░░░░�
 ```text
 🎮 Factorio                         🕘 822 hrs 27 mins
 💻 Wallpaper Engine                 🕘 332 hrs 58 mins
-🎮 World of Warships                🕘 275 hrs 8 mins
+🎮 World of Warships                🕘 275 hrs 32 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🎮 ELDEN RING                       🕘 94 hrs 59 mins
 ```
