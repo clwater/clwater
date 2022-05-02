@@ -141,8 +141,8 @@ Shell Script   5 mins          ░░░░░░░░░░░░░░░░�
 #### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Factorio                         🕘 822 hrs 30 mins
-💻 Wallpaper Engine                 🕘 333 hrs 14 mins
-🎮 World of Warships                🕘 276 hrs 25 mins
+💻 Wallpaper Engine                 🕘 334 hrs 8 mins
+🎮 World of Warships                🕘 276 hrs 26 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🎮 ELDEN RING                       🕘 94 hrs 59 mins
 ```
