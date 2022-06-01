@@ -111,7 +111,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java                   4 hrs 2 mins    █████████████████████▒░░░   85.72 %
+Groovy                 29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+XML                    10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+JavaScript             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
