@@ -142,7 +142,7 @@ Other                  25 mins         ▒░░░░░░░░░░░░�
 ```text
 🎮 Factorio                         🕘 822 hrs 30 mins
 💻 Wallpaper Engine                 🕘 337 hrs 42 mins
-🎮 World of Warships                🕘 276 hrs 28 mins
+🎮 World of Warships                🕘 276 hrs 39 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🎮 ELDEN RING                       🕘 94 hrs 59 mins
 ```
