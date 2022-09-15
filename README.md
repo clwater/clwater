@@ -140,8 +140,8 @@ GitIgnore file   0 secs          ░░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Factorio                         🕘 1224 hrs 11 mins
-💻 Wallpaper Engine                 🕘 341 hrs 24 mins
+🎮 Factorio                         🕘 1226 hrs 47 mins
+💻 Wallpaper Engine                 🕘 342 hrs 31 mins
 🎮 World of Warships                🕘 276 hrs 39 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🎮 ELDEN RING                       🕘 94 hrs 59 mins
