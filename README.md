@@ -140,7 +140,7 @@ Other            8 mins          ▒░░░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Factorio                         🕘 1258 hrs 1 mins
+🎮 Factorio                         🕘 1258 hrs 5 mins
 💻 Wallpaper Engine                 🕘 342 hrs 40 mins
 🎮 World of Warships                🕘 276 hrs 39 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
