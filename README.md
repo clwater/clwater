@@ -84,7 +84,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clwater&layout=compact&&hide=python,javascript,html" width="400" />
 </div>
 </br>
-<p>
+<!-- <p>
   <a href="https://github.com/clwater">
     <img src="https://badges.pufler.dev/visits/clwater/clwater?style=flat-square&color=blue&logo=github">
   </a>
@@ -97,7 +97,7 @@
   <a href="https://github.com/clwater">
     <img src="https://badges.pufler.dev/commits/monthly/clwater?style=flat-square&color=blue&logo=github">
   </a>
-</p>
+</p> -->
 
 <details><summary>More GitHub Info</summary>
 <img src="https://metrics.lecoq.io/clwater?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FShanghai"/>
