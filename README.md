@@ -142,7 +142,7 @@ Shrinker Config File   2 mins          ▒░░░░░░░░░░░░�
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🎮 Factorio                         🕘 1374 hrs 23 mins
+🎮 Factorio                         🕘 1374 hrs 29 mins
 💻 Wallpaper Engine                 🕘 350 hrs 4 mins
 🎮 World of Warships                🕘 277 hrs 55 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
