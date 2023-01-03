@@ -111,9 +111,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java         2 hrs 55 mins   ███████████████████████▒░   92.83 %
-SPI          13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Java         2 hrs 7 mins    █████████████████████████   99.99 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
