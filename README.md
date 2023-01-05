@@ -111,7 +111,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   0 secs          █████████████████████████   100.00 %
+Java                   6 hrs 17 mins   ████████████████████▓░░░░   83.05 %
+XML                    43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Groovy                 23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
+Gradle                 9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+JavaScript             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Shrinker Config File   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
