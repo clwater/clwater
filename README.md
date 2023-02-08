@@ -133,18 +133,18 @@ Other      3 hrs 12 mins   ███████████▒░░░░░�
 <p>Above are the last 2 video posted by <a href="https://www.instagram.com/_clwater/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @_clwater!</p>
 
 
-<strong>Game I Spent</strong></br>
+<!-- <strong>Game I Spent</strong></br>
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
+<!-- #### <a href="https://gist.github.com/e1cdb112acca91f65866dbbc84672f37" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🎮 Factorio                         🕘 1374 hrs 38 mins
 💻 Wallpaper Engine                 🕘 351 hrs 18 mins
 🎮 World of Warships                🕘 277 hrs 55 mins
 🎮 Aseprite                         🕘 156 hrs 19 mins
 🎮 ELDEN RING                       🕘 94 hrs 59 mins
-```
+``` -->
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
+<!-- steam-box end --> -->
 
 
 
