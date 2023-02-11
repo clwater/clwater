@@ -111,7 +111,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other            3 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.49 %
+Kotlin           2 hrs 40 mins   ███████░░░░░░░░░░░░░░░░░░   27.61 %
+Markdown         2 hrs 24 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.90 %
+Other            1 hr 57 mins    █████░░░░░░░░░░░░░░░░░░░░   20.17 %
 ```
 
 <!--END_SECTION:waka-->
