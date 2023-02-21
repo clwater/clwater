@@ -16,30 +16,11 @@
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
 <img alt="java" src="https://img.shields.io/badge/-java-2e317c?style=flat-square&logo=java&logoColor=white" />
 <img alt="Android" src="https://img.shields.io/badge/-Android-41b349?style=flat-square&logo=Android&logoColor=white" />
-<img alt="C#" src="https://img.shields.io/badge/-CSharp-525288?style=flat-square&logo=csharp&logoColor=white" />
-<img alt="python" src="https://img.shields.io/badge/-python-74787a?style=flat-square&logo=python&logoColor=white" />
-<img alt="javascript" src="https://img.shields.io/badge/-javascript-428675?style=flat-square&logo=javascript&logoColor=white" />
-<img alt="html" src="https://img.shields.io/badge/-html-d2d97a?style=flat-square&logo=html5&logoColor=white" />
-<img alt="css" src="https://img.shields.io/badge/-css-584717?style=flat-square&logo=css3&logoColor=white" />
-<img alt="react" src="https://img.shields.io/badge/-React-cf7543?style=flat-square&logo=react&logoColor=white" />
-
 <img alt="git" src="https://img.shields.io/badge/-git-5c2223?style=flat-square&logo=git&logoColor=white" />
-<img alt="github" src="https://img.shields.io/badge/-github-d13c74?style=flat-square&logo=github&logoColor=white" />
 <img alt="Windows Terminal" src="https://img.shields.io/badge/-terminal-36292f?style=flat-square&logo=Windows Terminal&logoColor=white" />
-
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-5d3131?style=flat-square&logo=Docker&logoColor=white" />
-<img alt="linux" src="https://img.shields.io/badge/-Linux-8076a3?style=flat-square&logo=linux&logoColor=white" />
-<img alt="mysql" src="https://img.shields.io/badge/-MySQL-7e2065?style=flat-square&logo=MySQL&logoColor=white" />
-<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
-<img alt="mysql" src="https://img.shields.io/badge/-Android Studio-add5a2?style=flat-square&logo=Android Studio&logoColor=white" />
+<img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-add5a2?style=flat-square&logo=Android Studio&logoColor=white"/>
 <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-b7ae8f?style=flat-square&logo=IntelliJ IDEA&logoColor=white" />
-<img alt="Unity" src="https://img.shields.io/badge/-Unity-2983bb?style=flat-square&logo=Unity&logoColor=white" />
-<img alt="Nginx" src="https://img.shields.io/badge/-Nginx-0f95b0?style=flat-square&logo=Nginx&logoColor=white" />
 
-<img alt="Adobe After Effects" src="https://img.shields.io/badge/-AE-876818?style=flat-square&logo=Adobe After Effects&logoColor=white" />
-<img alt="Adobe Lightroom" src="https://img.shields.io/badge/-Lightroom-bdaead?style=flat-square&logo=Adobe Lightroom&logoColor=white" />
-<img alt="Adobe Photoshop" src="https://img.shields.io/badge/-PS-0f59a4?style=flat-square&logo=Adobe Photoshop&logoColor=white" />
-<img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-PR-986524?style=flat-square&logo=Adobe Premiere Pro&logoColor=white" />
 </p>
 
 
