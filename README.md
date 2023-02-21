@@ -16,6 +16,8 @@
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
 <img alt="java" src="https://img.shields.io/badge/-java-2e317c?style=flat-square&logo=java&logoColor=white" />
 <img alt="Android" src="https://img.shields.io/badge/-Android-41b349?style=flat-square&logo=Android&logoColor=white" />
+<img alt="Shell" src="https://img.shields.io/badge/-Shell-584717?style=flat-square&logo=java&logoColor=white" />
+<img alt="Gradle" src="https://img.shields.io/badge/-Gradle-126bae?style=flat-square&logo=java&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-git-5c2223?style=flat-square&logo=git&logoColor=white" />
 <img alt="Windows Terminal" src="https://img.shields.io/badge/-terminal-36292f?style=flat-square&logo=Windows Terminal&logoColor=white" />
 <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-add5a2?style=flat-square&logo=Android Studio&logoColor=white"/>
