@@ -1,8 +1,8 @@
-## Hi, 👋  I'm <a href="https://www.gengzhibo.com/" target="_blank">全村人的希望</a> 
-* 最近在做~~Android~~,~~独立开发~~, 游戏 想做更多的事情.
-* 可能也是一个全栈吧, 虽然啥都会, 也啥都不会 ~~(理直气壮)~~
-* 擅长写shell ~~(偷懒)~~
-* 最近对算法情有独钟 ~~(为生, [RobinAlgo](https://robinalgo.com))~~
+## Hi, 👋  I'm <a href="https://clwater.top/" target="_blank">全村人的希望</a> 
+* Recently, I've been working on ~~game~~, ~~indecl development~~, ~~Android developer~~, and I want to do more.
+* I might be a full-stack developer, although I know a bit of everything, and also nothing at all. ~~(confidently)~~
+* I'm good at writing shell scripts. (for laziness)
+* Recently, I've taken a strong interest in algorithms, which might become my future career. ~~([RobinAlgo](https://robinalgo.com))~~
 
 <!-- 如果你想了解多一点点, 为什么不看看下面那个可能会有很多star的项目呢(前排star机会难得不是)
 <a href="https://github.com/anuraghazra/github-readme-stats">
