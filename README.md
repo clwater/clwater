@@ -94,12 +94,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java                   14 hrs 43 mins  ███████████████▓░░░░░░░░░   63.15 %
-PlantUML file          3 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
-Kotlin                 1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Markdown               1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Groovy                 55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
-XML                    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
