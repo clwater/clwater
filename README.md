@@ -58,33 +58,6 @@
 </table>
 
 
-</br></br><strong>About my GitHub</strong></br>
-<div align=left>
-<img src="https://github-readme-stats.vercel.app/api?username=clwater&show_icons=true" width="400"/>
-</div>
-</br>
-<div align=left>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clwater&layout=compact&&hide=python,javascript,html" width="400" />
-</div>
-</br>
-<!-- <p>
-  <a href="https://github.com/clwater">
-    <img src="https://badges.pufler.dev/visits/clwater/clwater?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://github.com/clwater">
-    <img src="https://badges.pufler.dev/years/clwater?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://github.com/clwater">
-    <img src="https://badges.pufler.dev/repos/clwater?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://github.com/clwater">
-    <img src="https://badges.pufler.dev/commits/monthly/clwater?style=flat-square&color=blue&logo=github">
-  </a>
-</p> -->
-
-
-
-
 ---
 Thanks:
 
