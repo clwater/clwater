@@ -82,43 +82,6 @@
   </a>
 </p> -->
 
-<details><summary>More GitHub Info</summary>
-<img src="https://metrics.lecoq.io/clwater?template=classic&base.header=0&base.metadata=0&config.timezone=Asia%2FShanghai"/>
-</br>
-<img src="https://activity-graph.herokuapp.com/graph?username=clwater&theme=rogue&hide_title=true"/>
-</details>
-
-</br>
-
-<strong>This Week I Spent My Time On</strong></br>
-<!--START_SECTION:waka-->
-
-```text
-Java            2 hrs 46 mins   ███████████████████████▓░   95.25 %
-JSON            6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-PlantUML file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
-Prolog          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-XML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-C++             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-<!--END_SECTION:waka-->
-
-
-<strong>Other Interests</strong>
-<!--
-<p>
-<a href="https://streamja.com/lWBdr">
-<img width="200" src="http://outin-12775ec6a01d11eaaba100163e1a3b4a.oss-cn-shanghai.aliyuncs.com/4863e89fe5914ad7b89dca05135de716/snapshots/ad333f427bba48cd93186acff0753116-00002.jpg?Expires=1637243738&OSSAccessKeyId=LTAIVVfYx6D0HeL2&Signature=f3i6PA0SAc5bsMmHLGswMxoU%2FdQ%3D" />
-</a>
-<a href="https://streamja.com/4WgMz">
-<img width="200" src="http://outin-12775ec6a01d11eaaba100163e1a3b4a.oss-cn-shanghai.aliyuncs.com/a50cfd65378b4ee49aad1b643aaa8376/snapshots/c102518f9568444a9748b65afb715472-00001.jpg?Expires=1637244388&OSSAccessKeyId=LTAIVVfYx6D0HeL2&Signature=fEeB6N%2FP1%2FVX8fMmdEfc2C%2FrEXI%3D" />
-</a>
-</p>
--->
-
-
-<p>Above are the last 2 video posted by <a href="https://www.instagram.com/_clwater/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @_clwater!</p>
 
 
 
