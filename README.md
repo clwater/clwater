@@ -50,9 +50,9 @@
       </td>
     </tr> 
     <tr>
-      <td><a href="https://github.com/clwater/AndroidDashBoard"><b>AndroidDashBoard</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/clwater/AndroidDashBoard?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/clwater/AndroidDashBoard?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/clwater/AndroidComposeCanvas"><b>AndroidDashBoard</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/clwater/AndroidComposeCanvas?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/clwater/AndroidComposeCanvas?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
