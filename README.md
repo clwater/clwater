@@ -14,15 +14,8 @@
 <!-- color url http://zhongguose.com/ -->
 <p>
 </br><strong>Languages, Frameworks, Tools and Environments</strong></br></br>
-<img alt="java" src="https://img.shields.io/badge/-java-2e317c?style=flat-square&logo=java&logoColor=white" />
-<img alt="Android" src="https://img.shields.io/badge/-Android-41b349?style=flat-square&logo=Android&logoColor=white" />
-<img alt="Shell" src="https://img.shields.io/badge/-Shell-584717?style=flat-square&logo=java&logoColor=white" />
-<img alt="Gradle" src="https://img.shields.io/badge/-Gradle-126bae?style=flat-square&logo=java&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-git-5c2223?style=flat-square&logo=git&logoColor=white" />
-<img alt="Windows Terminal" src="https://img.shields.io/badge/-terminal-36292f?style=flat-square&logo=Windows Terminal&logoColor=white" />
-<img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-add5a2?style=flat-square&logo=Android Studio&logoColor=white"/>
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ IDEA-b7ae8f?style=flat-square&logo=IntelliJ IDEA&logoColor=white" />
 
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)  [![iTerm2](https://img.shields.io/badge/Shell-000000?logo=iterm2&logoColor=fff)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
 </p>
 
 
